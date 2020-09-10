@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am `Kunal Srivastav`.
+#### 🌱 I’m currently learning `Object Oriented Programming` with `JAVA`.
 
 <!--
 **kunalsrivastav/kunalsrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
