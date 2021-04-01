@@ -3,7 +3,7 @@
 #### 🌐 Visit at : [kunalsrivastav.github.io](https://kunalsrivastav.github.io/).
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunalsrivastav&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
-![Visitor Count](https://profile-counter.glitch.me/{kunalsrivastav}/count.svg)
+
 <!--
 **kunalsrivastav/kunalsrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
