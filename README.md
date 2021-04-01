@@ -1,5 +1,5 @@
 ### Hi there 👋, I am `Kunal Srivastav`.
-#### 🌱 I’m currently learning `Object Oriented Programming` with `JAVA`.
+#### 🌱 I’m currently learning `Data Structures and Algorithm` with `JAVA`.
 #### 🌐 Visit at : [kunalsrivastav.github.io](https://kunalsrivastav.github.io/).
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunalsrivastav&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
