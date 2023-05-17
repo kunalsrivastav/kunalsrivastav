@@ -1,6 +1,8 @@
 ### Hi there 👋, I am `Kunal Srivastav`.
-#### 🌱 I’m currently learning `Data Structures and Algorithm` with `JAVA`.
+#### 🌱 I’m Frontend Developer.
+#### My tech stack includes `HTML`, `CSS`, `Javascript`, `Typescript`, `ReactJS`.
 #### 🌐 Visit at : [kunalsrivastav.github.io](https://kunalsrivastav.github.io/).
+#### My another Github Account : [kunalsrivastaveuler](https://github.com/kunalsrivastaveuler).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsrivastav&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsrivastav" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=kunalsrivastav&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
 
